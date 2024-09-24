@@ -1,0 +1,1 @@
+print('Jupi krenuli smo da napadnemo python')
